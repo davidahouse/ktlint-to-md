@@ -7,7 +7,7 @@ const lintResults = [];
 
 const rootPrefix = path.dirname(path.resolve("."));
 
-let output = "summary";
+let output = "status";
 if (process.argv.length > 2) {
   output = process.argv[2];
 }
@@ -35,8 +35,15 @@ glob("**/ktlint.json", async function (err, files) {
 
   if (output === "text") {
     outputText();
-  } else {
+  } else if (output === "summary") {
     outputSummary();
+  } else {
+    if (lintResults.length > 0) {
+      console.log(
+        "ktlint findings detected, so returning a non-zero exit code"
+      );
+      process.exit(1);
+    }
   }
 });
 
