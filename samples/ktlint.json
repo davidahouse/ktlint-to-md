@@ -1,0 +1,134 @@
+[
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/main/java/org/kp/m/configuration/SupportedLocales.kt",
+    "errors": [
+      {
+        "line": 24,
+        "column": 39,
+        "message": "Unnecessary space(s)",
+        "rule": "no-multi-spaces"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/KpEnvConfigKoreanTests.kt",
+    "errors": [
+      {
+        "line": 9,
+        "column": 1,
+        "message": "Unused import",
+        "rule": "no-unused-imports"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/SupportedLocalesKoreanTests.kt",
+    "errors": [
+      {
+        "line": 7,
+        "column": 1,
+        "message": "Imports must be ordered in lexicographic order without any empty lines in-between",
+        "rule": "import-ordering"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev10EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 647,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev20EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 647,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev3EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 657,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev4EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 655,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev50EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 646,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/Dev60EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 647,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/HPREVEnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 620,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/HReg2EnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 619,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  },
+  {
+    "file": "/Users/buildrunner/stampwork/4-23-2020/KPMobile-KPMobile-Android/pullrequest-1488/1543/lint-android-1/configuration/src/test/java/org/kp/m/configuration/env/ProdIDCOfflineEnvironmentEnglishTests.kt",
+    "errors": [
+      {
+        "line": 620,
+        "column": 1,
+        "message": "Needless blank line(s)",
+        "rule": "no-consecutive-blank-lines"
+      }
+    ]
+  }
+]
