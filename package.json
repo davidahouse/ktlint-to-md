@@ -1,13 +1,13 @@
 {
   "name": "ktlint-to-md",
   "main": "bin/ktlint-to-md.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A command line app for turning android ktlint output to markdown",
   "license": "MIT",
   "repository": "davidahouse/ktlint-to-md",
   "preferGlobal": true,
   "bin": {
-    "lint-to-md": "bin/ktlint-to-md.js"
+    "ktlint-to-md": "bin/ktlint-to-md.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
